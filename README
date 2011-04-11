@@ -1,0 +1,5 @@
+Platform intended to test an installation of Solr, through SolrJ API.
+Use Cases:
+	- Insert  documents
+	- Search  documents
+	- Replace documents
